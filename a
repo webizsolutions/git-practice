@@ -1,0 +1,18 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex a1eff3f..59f220b 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,3 +1,3 @@[m
+ # git-practice[m
+ [m
+[31m-git practice readme file change remote[m
+[32m+[m[32mgit practice readme file change local[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6c70bcf..20c6765 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1 @@[m
+[31m-<html></html>[m
+\ No newline at end of file[m
+[32m+[m[32m<html>hi local change</html>[m
+\ No newline at end of file[m
